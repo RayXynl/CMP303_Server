@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\jacob\OneDrive - Abertay University\3rd Year\CMP303\Coursework\Coursework MK2\Server\CourseworkServer\Game.cpp(20,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jacob\OneDrive - Abertay University\3rd Year\CMP303\Coursework\Coursework MK2\Server\CourseworkServer\Game.cpp(20,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CourseworkServer.vcxproj -> C:\Users\jacob\OneDrive - Abertay University\3rd Year\CMP303\Coursework\Coursework MK2\Server\x64\Debug\CourseworkServer.exe
